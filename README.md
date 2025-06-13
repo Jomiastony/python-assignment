@@ -1,6 +1,7 @@
 # python-assignment
 
 def calculator():
+    
     try:
         num1 = float(input("Enter first number: "))
         num2 = float(input("Enter second number: "))
